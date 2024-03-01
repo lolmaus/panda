@@ -1,5 +1,12 @@
 # @pandacss/preset-atlaskit
 
+## 0.33.1
+
+### Patch Changes
+
+- a02631e: Fix issue where text accent color token was nested incorrectly.
+  - @pandacss/types@0.33.1
+
 ## 0.33.0
 
 ### Patch Changes
